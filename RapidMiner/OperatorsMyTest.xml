@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operators name="mytest" version="6.0" docbundle="com/rapidminer/extension/resources/i18n/OperatorsDocMyTest">
+    <group key="">
+        <!-- This is an example how to specify Operators and Operator groups. The Operator groups define
+                where Operators will be located in the Operator tree. -->
+
+        <group key="operator_test">
+           <operator>
+              <key>HowManyInCircleOperator</key>
+              <class>com.rapidminer.extension.operator.HowManyInCircleOperator</class>
+               <icon>add.png</icon>
+           </operator>
+            <operator>
+                <key>ExtractionTextOperator</key>
+                <class>com.rapidminer.extension.operator.ExtractionTextOperator</class>
+                <icon>add.png</icon>
+            </operator>
+            <operator>
+                <key>DistanceMetricOperator</key>
+                <class>com.rapidminer.extension.operator.DistanceMetricOperator</class>
+                <icon>add.png</icon>
+            </operator>
+            <operator>
+                <key>SpecificMyOperator</key>
+                <class>com.rapidminer.extension.operator.SpecificMyOperator</class>
+                <icon>add.png</icon>
+            </operator>
+            <operator>
+                <key>CostOperator</key>
+                <class>com.rapidminer.extension.operator.CostOperator</class>
+                <icon>add.png</icon>
+            </operator>
+            <operator>
+                <key>RankOperator</key>
+                <class>com.rapidminer.extension.operator.RankOperator</class>
+                <icon>add.png</icon>
+            </operator>
+         </group>
+    </group>
+</operators>
