@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<operatorHelp lang="en_EN">
+    <!--  This is an example how to specify the translation of operator keys to names. -->
+    <operator>
+      <key>HowManyInCircleOperator</key>
+      <name>How many in circle with lat,lng</name>
+    </operator>
+    <operator>
+        <key>ExtractionTextOperator</key>
+        <name>Extraction Text</name>
+    </operator>
+    <operator>
+        <key>DistanceMetricOperator</key>
+        <name>Distance Metric Operator</name>
+    </operator>
+    <operator>
+        <key>SpecificMyOperator</key>
+        <name>Specific MyOperator</name>
+    </operator>
+    <operator>
+        <key>CostOperator</key>
+        <name>Cost Operator</name>
+    </operator>
+    <operator>
+        <key>RankOperator</key>
+        <name>Rank Operator</name>
+    </operator>
+    <!-- This is how group keys are translated: -->
+    <group>
+      <key>operator_test</key>
+      <name>Example Group</name>
+    </group>
+</operatorHelp>
