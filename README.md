@@ -2,7 +2,7 @@
 |----------|---------------------|
 |rapidminer-extension-template-master|RapidMiner의 전체 코드이고 RapidMiner의 extension을 이용해서 Operator를 사용해보았다.(RapidMiner의 OpenSource 버전에서도 잘 돌아간다.)|
 |RapidMiner|새롭게 만든 Operator에 대한 코드 |
-|Python|대중교통 데이터를 Python으로 분석한 코드|
+|Python|대중교통 데이터를 Python으로 분석한 코드(Foulium 패키지 때문에 Html로 설정함)|
 |최종보고서|환승센터 적합지를 찾기 위해 2가지 방법으로 분석한 결과|
 
 # Analyze-public-transportation-data
@@ -102,3 +102,5 @@
 - ### 처음에 기업에서 PCAT데이터를 가지고 분석해서 북한의 소행인지 알아보는 프로젝트를 주셨다가 회사측 사정에 따라(국방부 계약 실패) 10월초즘에 서울시 대중교통 빅데이터를 가지고 새로운 환승센터를 찾는 프로젝트를 진행하였다.
 
 - ### 서울시 대중교통 빅데이터를 가지고 두 가지 분석 Tool을 이용해서 분석을 해보았고 더 욕심이 생겼다. 자세한 내용은 위의 파일에 다 담겨져 있다.
+
+# 더 자세한 내용은 [Github.io](https://sonhyeono.github.io/blog/categories/Intern/#/)에 있다.
