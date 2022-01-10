@@ -1,3 +1,10 @@
+|파일 이름| 내용 |
+|----------|---------------------|
+|rapidminer-extension-template-master|RapidMiner의 전체 코드이고 RapidMiner의 extension을 이용해서 Operator를 사용해보았다.(RapidMiner의 OpenSource 버전에서도 잘 돌아간다.)|
+|RapidMiner|새롭게 만든 Operator에 대한 코드 |
+|Python|대중교통 데이터를 Python으로 분석한 코드|
+|최종보고서|환승센터 적합지를 찾기 위해 2가지 방법으로 분석한 결과|
+
 # Analyze-public-transportation-data
 
 - [Chapter 1](#chapter1) 2021년 9월부터 12월까지 진행한 산학 R&D 프로젝트 인턴 기록
@@ -85,7 +92,7 @@
 
 # 서울시의 새로운 환승센터 후보지는 강남, 홍대입구, 수유이다.
 
-## 더 자세한 내용은 위의 " " 파일을 읽어보면 된다.
+## 더 자세한 내용은 위의 "" 파일을 읽어보면 된다.
 
 ---
 
