@@ -103,4 +103,4 @@
 
 - ### 서울시 대중교통 빅데이터를 가지고 두 가지 분석 Tool을 이용해서 분석을 해보았고 더 욕심이 생겼다. 자세한 내용은 위의 파일에 다 담겨져 있다.
 
-# 더 자세한 내용은 [Github.io](https://sonhyeono.github.io/blog/categories/Intern/#/)에 있다.
+# 더 자세한 내용은 [Github.io](https://sonhyeono.github.io/categories/#intern)에 있다.
